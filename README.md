@@ -1,4 +1,4 @@
-# myprojects
+# MY Projects
 My projects in Microcontroller and Modelling of Control Systems Classes
 
 
